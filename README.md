@@ -1,1 +1,0 @@
-# 3d-cover-flow-in-react
